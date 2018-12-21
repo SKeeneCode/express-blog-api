@@ -1,0 +1,1 @@
+module.exports = {Posts: require('./posts.js'), Comments: require('./comments')};
