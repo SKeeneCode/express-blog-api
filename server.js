@@ -5,7 +5,7 @@ const bodyParser = require('body-parser');
 const errorhandler = require('errorhandler');
 const https = require('https');
 const fs = require('fs');
-path = require('path');
+const path = require('path');
 
 let store = {
     posts: []
